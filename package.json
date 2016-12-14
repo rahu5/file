@@ -1,0 +1,22 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahu5/file.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahu5/file/issues"
+  },
+  "homepage": "https://github.com/rahu5/file#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
